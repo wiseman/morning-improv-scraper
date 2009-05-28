@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/local/bin/sbcl-custom --noinform --disable-debugger --load /Users/wiseman/src/mi-rss-scraper/regen-rss.lisp
