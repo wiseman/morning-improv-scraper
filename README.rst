@@ -1,7 +1,7 @@
 Morning Improv Blog Scraper
 ===========================
 
-In the old days `Scott McCloud's Morning Improv blog` was updated by
+In the old days `Scott McCloud's Morning Improv blog`_ was updated by
 him by hand-editing HTML.  This code scraped his blog and generated an
 RSS feed.  That feed was then syndicated on Livejournal at
 http://syndicated.livejournal.com/scottmccloud/
